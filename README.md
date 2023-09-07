@@ -7,7 +7,7 @@
 [Download Python ](https://www.python.org/downloads/)
 
 ```
-  git clone https://github.com/daniyalusman/simple-calculator.git
+  git clone https://github.com/daniyalusman/Simple-Calculator.git
 ```
 
 ```
@@ -37,7 +37,7 @@
 ```
   
 ```
-  git clone https://github.com/daniyalusman/simple-calculator.git
+  git clone https://github.com/daniyalusman/Simple-Calculator.git
 ```
 
 ```
