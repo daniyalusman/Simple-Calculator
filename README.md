@@ -1,4 +1,4 @@
-# simple-calculator
+# Simple-Calculator
 
 ## Installation (For Windows)
 
