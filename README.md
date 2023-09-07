@@ -11,7 +11,7 @@
 ```
 
 ```
-  cd simple-calculator
+  cd Simple-Calculator
 ```
 
 ```
@@ -41,7 +41,7 @@
 ```
 
 ```
-  cd simple-calculator
+  cd Simple-Calculator
 ```
 
 ```
